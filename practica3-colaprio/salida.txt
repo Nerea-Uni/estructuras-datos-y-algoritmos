@@ -1,0 +1,52 @@
+ENCOLADO PRIO Cervantes
+---
+ENCOLADO NO PRIO Camus
+---
+ENCOLADO NO PRIO Shakespeare
+---
+ENCOLADO PRIO Clarin
+---
+--- LISTADO ---
+Cervantes
+Clarin
+Camus
+Shakespeare
+---
+PRIMERO Cervantes
+---
+LONGITUD 4
+---
+LONGPRI 2
+---
+LONGNOPRI 2
+---
+DESENCOLADO
+---
+--- LISTADO ---
+Clarin
+Camus
+Shakespeare
+---
+PRIMERO Clarin
+---
+DESENCOLADO
+---
+--- LISTADO ---
+Camus
+Shakespeare
+---
+PRIMERO Camus
+---
+DESENCOLADO
+---
+--- LISTADO ---
+Shakespeare
+---
+PRIMERO Shakespeare
+---
+DESENCOLADO
+---
+--- LISTADO ---
+---
+NO HAY
+---
