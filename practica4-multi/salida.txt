@@ -1,0 +1,33 @@
+AÑADIDO una
+AÑADIDO una
+AÑADIDO Una
+MULTIPLICIDAD DE una = 2
+AÑADIDO dos
+MULTIPLICIDAD DE dos = 1
+--- CARDINAL = 4
+Una  1
+dos  1
+una  2
+---
+NO QUITADO tres
+MULTIPLICIDAD DE tres = 0
+QUITADO una
+MULTIPLICIDAD DE una = 1
+--- CARDINAL = 4
+Una  1
+dos  1
+una  1
+---
+AÑADIDO tres
+AÑADIDO cuatro
+AÑADIDO tres
+MULTIPLICIDAD DE tres = 2
+QUITADO tres
+MULTIPLICIDAD DE tres = 1
+--- CARDINAL = 7
+Una  1
+cuatro  1
+dos  1
+tres  1
+una  1
+---
